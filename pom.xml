@@ -10,7 +10,7 @@
     <name>pgsearch</name>
 
     <properties>
-        <hibernate.version>5.4.24.Final</hibernate.version>
+        <hibernate.version>5.6.1.Final</hibernate.version>
         <postgres.driver.version>42.2.13</postgres.driver.version>
     </properties>
 
